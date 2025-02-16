@@ -2,7 +2,7 @@
 
 ### Summary: Include screen shots or a video of your app highlighting its features
 
-![Alt Screenshot](PreviewAssets/Simulator Screenshot - iPhone 16 Pro - 2025-02-15 at 18.22.21.png)
+![Alt Text](Assets/screenshot1.png)
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
