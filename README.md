@@ -1,8 +1,8 @@
 # Fetch Take Home Project.
 
+### Summary: Include screen shots or a video of your app highlighting its features
 
-
-
+![Alt Text](Assets/Screenshot1)
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
